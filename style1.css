@@ -1,0 +1,138 @@
+/* navbar */
+nav {
+  color: #ffffff;
+}
+form.example input {
+  padding: 10px;
+  padding-left: 10px;
+  padding-right: 80px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 200px;
+  margin-right: 20px;
+
+  background: #000000;
+}
+
+form.example button {
+  float: left;
+  width: 15%;
+  padding: 10px;
+  margin-left: -60px;
+  background: #000000;
+  color: white;
+  margin-right: 20px;
+  font-size: 17px;
+  border: 0;
+}
+/* banner */
+/*<!--banner-->*/
+.banner {
+  background-image: url(images/banner.jpg);
+  color: #ffffff;
+  height: 540px;
+  background-size: cover;
+}
+.box {
+  padding-left: 14%;
+}
+.head {
+  font-weight: 500;
+}
+.btn {
+  background-color: orangered;
+  color: #ffffff;
+  width: 15 0px;
+}
+
+/*<!--banner end-->*/
+
+/*<!--blocks-->*/
+.bg-orange {
+  background-color: orangered;
+  height: fit-content;
+  color: #ffffff;
+
+  text-align: center;
+}
+.bg-black {
+  color: #ffffff;
+  height: fit-content;
+  text-align: center;
+}
+
+.row h6 {
+  font-weight: 600;
+}
+.ic {
+  font-size: 50px;
+  padding-bottom: 30px;
+}
+/*<!--blocks end-->*/
+
+/* offer */
+.offer-left p {
+  color: gray;
+}
+.offer-left h5 {
+  margin-top: 20px;
+  margin-bottom: 25px;
+}
+.offer-right img {
+  width: 400px;
+}
+.ico {
+  font-size: 20px;
+  background-color: orangered;
+  color: #ffffff;
+
+  text-align: center;
+}
+/* offer end */
+
+/* banner2 */
+.banner2 {
+  background-image: url(images/banner.jpg);
+}
+
+/* form */
+
+.fo-main {
+  height: 500px;
+  color: #ffffff;
+  background-size: cover;
+  background-image: url(images/request.jpg);
+  height: 500px;
+  background-size: cover;
+}
+.thumnil {
+  width: 500px;
+}
+.col {
+  margin: 12px 0;
+}
+.formcon {
+  width: 500px;
+}
+.form-control {
+  border: 0;
+  border-radius: 0;
+  border-bottom: 0.1px solid #ffffff;
+
+  background: none;
+}
+.form-select {
+  border: 0;
+  border-radius: 0;
+  border-bottom: 0.1px solid #ffffff;
+  background: none;
+  color: #ffffff;
+}
+.f-option {
+  background: none;
+  color: #000000;
+}
+.formcon ::placeholder {
+  color: #ffffff;
+}
